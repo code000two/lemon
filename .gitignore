@@ -154,4 +154,8 @@ Temporary Items
 bins/
 !/API.md
 .idea
+<<<<<<< Updated upstream
 bin/
+=======
+bin/
+>>>>>>> Stashed changes
